@@ -1,1 +1,1 @@
-// export type { ToolbarItem } from './ToolbarItem';
+export type { Product } from './Product';
